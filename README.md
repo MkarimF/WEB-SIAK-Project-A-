@@ -1,2 +1,1 @@
-# test-aja
 # im osaka
